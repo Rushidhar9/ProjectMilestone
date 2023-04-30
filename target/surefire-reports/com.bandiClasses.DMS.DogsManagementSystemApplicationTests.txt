@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.bandiClasses.DMS.DogsManagementSystemApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.109 s - in com.bandiClasses.DMS.DogsManagementSystemApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.39 s - in com.bandiClasses.DMS.DogsManagementSystemApplicationTests
