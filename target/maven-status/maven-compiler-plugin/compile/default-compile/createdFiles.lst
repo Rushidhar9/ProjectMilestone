@@ -1,0 +1,6 @@
+com\bandiClasses\DMS\repository\DogRepository.class
+com\bandiClasses\DMS\Models\Dog.class
+com\bandiClasses\DMS\DogsManagementSystemApplication.class
+com\bandiClasses\DMS\Controllers\DogController.class
+com\bandiClasses\DMS\repository\TrainerRepository.class
+com\bandiClasses\DMS\Models\Trainer.class
